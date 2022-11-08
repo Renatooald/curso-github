@@ -5,5 +5,5 @@
 Texto sem formatação...
 
 ```
-npm install React
+node app.js
 ```
